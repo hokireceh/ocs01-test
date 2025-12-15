@@ -1,0 +1,12 @@
+[
+  {
+    "priv": "YOUR_BASE64_ENCODED_PRIVATE_KEY_1",
+    "addr": "octXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "rpc": "https://octra.network"
+  },
+  {
+    "priv": "YOUR_BASE64_ENCODED_PRIVATE_KEY_2",
+    "addr": "octYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+    "rpc": "https://octra.network"
+  }
+]
